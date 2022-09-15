@@ -1,2 +1,3 @@
-# RENAME ROOT FOLDER AFTER DOWNLOAD "HealBarsClassic"
-~~HealBarsClassic~~
+# RENAME ROOT FOLDER AFTER DOWNLOAD
+# ~~HealBarsClassic~~
+# HealBarsClassic
