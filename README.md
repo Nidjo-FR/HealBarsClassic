@@ -1,3 +1,3 @@
 # RENAME ROOT FOLDER AFTER DOWNLOAD
-# ~~HealBarsClassic-release~~
-# HealBarsClassic
+## ~~HealBarsClassic-release~~
+## HealBarsClassic
